@@ -1,0 +1,16 @@
+{
+    "name": "com.nico.vfxlib",
+    "displayName": "VfxLib",
+    "version": "0.0.1",
+    "unity": "2022.3",
+    "description": "包含常用的特效。",
+    "license": "MIT",
+	"keywords": [ "Visual Effects", "Shader"],
+    "dependencies": {
+        "com.unity.visualeffectgraph": "14.0.11"
+    },
+    "author": {
+        "name": "wang.zhuowei",
+        "email": "549676201@qq.com"
+    }
+}
